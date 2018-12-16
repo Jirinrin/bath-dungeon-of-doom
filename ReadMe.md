@@ -12,6 +12,7 @@ _______________ _  _____
 This project was the final coursework of the `Principles of Programming` Computer Science module I followed at the University of Bath.  
 It is a fun (and dare I say, actually sort of claustrophobia-/fear-inducing) command-line-based game where you explore a dungeon and have to watch out not to be killed by a bot.  
 I poured lots of passion into it and even went so far as to figure out Dijkstra's algorithm for pathfinding :)  
+(And my hard work paid off, as I got basically the equivalent of a 100% as a grade~)  
 I would consider this code base a good example of how ordered I like (my/anyone's) code to look if I have the time to spend on documenting/refactoring.
 )
 
