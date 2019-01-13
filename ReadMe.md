@@ -17,6 +17,12 @@ I poured lots of passion into it and even went so far as to figure out Dijkstra'
 I would consider this code base a good example of how ordered I like (my/anyone's) code to look if I have the time to spend on documenting/refactoring.
 )
 
+## Demo
+
+![gif-2](/readme-images/dod-2.gif)  
+![gif-3](/readme-images/dod-3.gif)  
+![gif-4](/readme-images/dod-4.gif)
+
 Thanks for trying out ***Dungeon of Doom***, a fun text-based adventure game where you loot dungeons while trying not to get caught!!  
 Down below you will find all the necessary info to get started and to dive deeper.
 Enjoy!
